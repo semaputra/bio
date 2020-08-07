@@ -1,17 +1,7 @@
 {
-  "bio":[
-      {
-        "name": "Seka Adisma Putra",
-        "age": 23,
-        "gender": "Male",
-        "address": {
-            "streetAddress": "Perum griya citra persada, blok S7",
-            "city": "Cikampek",
-            "region": "Karawang",
-            "province": "Jawa Barat",
-            "Country": "Indonesia"
-        },
-        "email": "seka.putra@indocyber.co.id"
-      }
-    ]
+    "name": "Seka Adisma Putra",
+    "age": 23,
+    "gender": "Male",
+    "address": "Perum griya citra persada, blok S7, Dawuan Timur, Cikampek",
+    "email": "seka.putra@indocyber.co.id"
 }
