@@ -8,7 +8,8 @@
             "city": "Cikampek",
             "region": "Karawang",
             "province": "Jawa Barat",
-            "Country": "Indonesia"
+            "country": "Indonesia",
+            "postalCode": 41373
         },
         "email": "seka.putra@indocyber.co.id"
     }
