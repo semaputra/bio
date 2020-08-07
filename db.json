@@ -1,7 +1,9 @@
 {
-    "name": "Seka Adisma Putra",
-    "age": 23,
-    "gender": "Male",
-    "address": "Perum griya citra persada, blok S7, Dawuan Timur, Cikampek",
-    "email": "seka.putra@indocyber.co.id"
+    "bio": {
+        "name": "Seka Adisma Putra",
+        "age": 23,
+        "gender": "Male",
+        "address": "Perum griya citra persada, blok S7, Dawuan Timur, Cikampek",
+        "email": "seka.putra@indocyber.co.id"
+    }
 }
